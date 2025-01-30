@@ -43,14 +43,8 @@ The program is designed with modularity and reusability in mind, ensuring effici
 
 ### Clone Repository
 ```sh
-# Navigate to the directory where you want to store the project
-cd ~/Java\ Project/java_work/LTU_Java/
-
 # Clone the repository
 git clone git@github.com:StellaZhang-Dev/SoftwareDevelopment_InventoryManagement_CashRegister.git
-
-# Move into the project directory
-cd SoftwareDevelopment_InventoryManagement_CashRegister
 ```
 
 ### Compile and Run
